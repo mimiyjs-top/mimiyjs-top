@@ -25,10 +25,10 @@
 
 ## ⭐ 唯一主入口（官方）
 
-👉 **[点击进入秘密研究所官方主入口](你的真实入口链接)**
+👉 **[点击进入秘密研究所官方主入口](https://sf.mmyjs.top/)**
 
 🌐 官方发布页（GitHub Pages）  
-👉 https://你的用户名.github.io/仓库名/
+👉 https://mimiyjs-top.github.io/mimiyjs-top/
 
 > 本仓库不提供镜像、不存储任何内容，仅用于地址发布与访问指引。
 
