@@ -30,6 +30,7 @@
 🌐 官方发布页（GitHub Pages）  
 👉 https://mimiyjs-top.github.io/mimiyjs-top/
 
+> 邮箱：huifudizhi#gmail.com(把#改成@后发送任意内容到此邮箱，可获取最新地址。）
 > 本仓库不提供镜像、不存储任何内容，仅用于地址发布与访问指引。
 
 ---
